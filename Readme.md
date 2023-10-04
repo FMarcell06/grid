@@ -10,3 +10,5 @@
     > git add .
 - commit:
     > git commit -m "first commit"
+- a commitok listázása:
+    > git log
