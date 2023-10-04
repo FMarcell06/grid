@@ -12,3 +12,13 @@
     > git commit -m "first commit"
 - a commitok listázása:
     > git log
+
+## Helyi repó összekapcsolása a távoli repoval
+
+- távoli létrehozása
+- helyi repó összekapcsolása a távolival
+    > git remote add ...token@github.com...
+- legelső alkalomm la a push:
+    > git push -u origin master
+- a továbbiakban:
+    > git push
